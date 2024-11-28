@@ -13,3 +13,7 @@
 .top-menu-flex{
     display: flex;
 }
+.head-fixer{
+    display: flex;
+    justify-content: space-between;
+}
